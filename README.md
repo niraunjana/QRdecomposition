@@ -64,10 +64,11 @@ QR_Decomposition(a)
 
 ## Output
 ```
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2012-08-12.png![image](https://user-images.githubusercontent.com/119395610/212833345-33a669e1-9839-4fab-b4b0-d6119b239a1a.png)
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-17%2012-08-37.png![image](https://user-images.githubusercontent.com/119395610/212833438-5539a962-dcef-4655-831b-f0f1b35169e4.png)
 
 
+
+![image](https://user-images.githubusercontent.com/119395610/212834092-6003b43a-00f1-42a4-9978-912984cb005b.png)
+![image](https://user-images.githubusercontent.com/119395610/212834162-cce43958-e4f0-454c-8dde-858dcbe047db.png)
 
 
 
