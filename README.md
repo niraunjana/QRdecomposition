@@ -64,7 +64,9 @@ QR_Decomposition(a)
 
 ## Output
 
-![WhatsApp Image 2023-01-17 at 12 48 13](https://user-images.githubusercontent.com/119395610/212851877-a4fac0b2-6b81-441b-afe9-f23904ead2bc.jpg)
+![WhatsApp Image 2023-01-17 at 12 48 13](https://user-images.githubusercontent.com/119395610/212851877-a4fac0b2-6b81-441b-afe9-f23904ead2bc.jpg)![WhatsApp Image 2023-01-17 at 12 48 27](https://user-images.githubusercontent.com/119395610/212852028-7ecacd01-8bc9-488a-a10d-e9621cdc4330.jpg)
+
+
 
 
 
